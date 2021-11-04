@@ -1,9 +1,9 @@
 # Hava Durumu İstasyonu
 
 V2.0 Yapılan Değişiklikler
+- CAD yazılımı olarak Autodesk Eagle bırakılarak KiCAD kullanıldı.
 - Mikroişlemci devresinde dijital güç girişlerinin tamamına filtre kondansatörü eklendi.
 - Sıcaklık sensörünün çalışmasını engelleyen filtre kondansatörüne ait bağlantı hatası düzeltildi.
-- Komponentlerin tamamı kartın üzerine yeniden dizildi.
 - PCB 4 katmanlı olarak yeniden tasarlandı.
 
 V1.0
